@@ -1,6 +1,6 @@
-**03 - Deploy Azure Container Instances**
+# 03 - Deploy Azure Container Instances
 
-**Task 1: Create a container instance**
+Task 1: Create a container instance
 
 ![03 Container-instance_01](Evidencia/03 Container-instance_01.png)
 

@@ -1,7 +1,9 @@
 # 03 - Deploy Azure Container Instances
 
 Task 1: Create a container instance
+
 ![03 Container-instance_01](Evidencia/03 Container-instance_01.png)
+
 Container instance created and deployment completed.
 ![03 Container-instance_02](Evidencia/03 Container-instance_02.png)
 Task 2: Verify deployment of the container instance

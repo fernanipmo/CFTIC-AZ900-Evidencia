@@ -1,3 +1,9 @@
+00 - Readme-Error Log
+
+01 - Create a virtual machine
+
+02 - Create a Web App
+
 # 03 - Deploy Azure Container Instances
 
 Task 1: Create a container instance
@@ -59,3 +65,33 @@ Control Diagram
 Resource group removing
 ![04 - Create a virtual network_19](Evidencia/04 - Create a virtual network_19.png)
 ![04 - Create a virtual network_20](Evidencia/04 - Create a virtual network_20.png)
+
+# 05 - Create Blob storage
+Task 1: Create a storage account
+![05 - Create Blob Storage_01](Evidencia/05 - Create Blob Storage_01.png)
+
+![05 - Create Blob Storage_02](Evidencia/05 - Create Blob Storage_02.png)
+
+![05 - Create Blob Storage_03](Evidencia/05 - Create Blob Storage_03.png)
+
+![05 - Create Blob Storage_04](Evidencia/05 - Create Blob Storage_04.png)
+
+Task 2: Work with blob storage
+Container creation
+![05 - Create Blob Storage_05](Evidencia/05 - Create Blob Storage_05.png)
+Blob uploading
+![05 - Create Blob Storage_06](Evidencia/05 - Create Blob Storage_06.png)
+![05 - Create Blob Storage_07](Evidencia/05 - Create Blob Storage_07.png)
+
+Task 3: Monitor the storage account
+
+![05 - Create Blob Storage_08](Evidencia/05 - Create Blob Storage_08.png)
+Resource group removing
+![05 - Create Blob Storage_09](Evidencia/05 - Create Blob Storage_09.png)
+
+![05 - Create Blob Storage_10](Evidencia/05 - Create Blob Storage_11.png)
+
+![05 - Create Blob Storage_11](Evidencia/05 - Create Blob Storage_11.png)
+
+# 06 - Create a SQL database
+

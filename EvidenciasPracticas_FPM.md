@@ -31,23 +31,23 @@ Resource group removing
 
 # 02 - Create a Web App
 
-![02-Create_Web_App_01](C:\LocalA\Evidencia\02-Create_Web_App_01.png)
+![02-Create_Web_App_01](Evidencia/02-Create_Web_App_01.png)
 
-![02-Create_Web_App_02](C:\LocalA\Evidencia\02-Create_Web_App_02.png)
+![02-Create_Web_App_02](Evidencia/02-Create_Web_App_02.png)
 
-![02-Create_Web_App_03](C:\LocalA\Evidencia\02-Create_Web_App_03.png)
+![02-Create_Web_App_03](Evidencia/02-Create_Web_App_03.png)
 
-![02-Create_Web_App_04](C:\LocalA\Evidencia\02-Create_Web_App_04.png)
+![02-Create_Web_App_04](Evidencia/02-Create_Web_App_04.png)
 
-![02-Create_Web_App_05](C:\LocalA\Evidencia\02-Create_Web_App_05.png)
+![02-Create_Web_App_05](Evidencia/02-Create_Web_App_05.png)
 
-![02-Create_Web_App_06](C:\LocalA\Evidencia\02-Create_Web_App_06.png)
+![02-Create_Web_App_06](Evidencia/02-Create_Web_App_06.png)
 
 Resource group removing
 
-![02-Create_Web_App_08](C:\LocalA\Evidencia\02-Create_Web_App_08.png)
+![02-Create_Web_App_08](Evidencia/02-Create_Web_App_08.png)
 
-![02-Create_Web_App_07](C:\LocalA\Evidencia\02-Create_Web_App_07.png)
+![02-Create_Web_App_07](Evidencia/02-Create_Web_App_07.png)
 
 
 # 03 - Deploy Azure Container Instances
@@ -143,36 +143,36 @@ Resource group removing
 
 
 
-![06-Create_SQL_database_01](C:\LocalA\Evidencia\06-Create_SQL_database_01.png)
+![06-Create_SQL_database_01](Evidencia/06-Create_SQL_database_01.png)
 
-![06-Create_SQL_database_02](C:\LocalA\Evidencia\06-Create_SQL_database_02.png)
+![06-Create_SQL_database_02](Evidencia/06-Create_SQL_database_02.png)
 
-![06-Create_SQL_database_03](C:\LocalA\Evidencia\06-Create_SQL_database_03.png)
+![06-Create_SQL_database_03](Evidencia/06-Create_SQL_database_03.png)
 
-![06-Create_SQL_database_04](C:\LocalA\Evidencia\06-Create_SQL_database_04.png)
+![06-Create_SQL_database_04](Evidencia/06-Create_SQL_database_04.png)
 
-![06-Create_SQL_database_05](C:\LocalA\Evidencia\06-Create_SQL_database_05.png)
+![06-Create_SQL_database_05](Evidencia/06-Create_SQL_database_05.png)
 
-![06-Create_SQL_database_06](C:\LocalA\Evidencia\06-Create_SQL_database_06.png)
+![06-Create_SQL_database_06](Evidencia/06-Create_SQL_database_06.png)
 
-![06-Create_SQL_database_07](C:\LocalA\Evidencia\06-Create_SQL_database_07.png)
+![06-Create_SQL_database_07](Evidencia/06-Create_SQL_database_07.png)
 
-![06-Create_SQL_database_08](C:\LocalA\Evidencia\06-Create_SQL_database_08.png)
+![06-Create_SQL_database_08](Evidencia/06-Create_SQL_database_08.png)
 
 Test the database
 
-![06-Create_SQL_database_09](C:\LocalA\Evidencia\06-Create_SQL_database_09.png)
+![06-Create_SQL_database_09](Evidencia/06-Create_SQL_database_09.png)
 
-![06-Create_SQL_database_10](C:\LocalA\Evidencia\06-Create_SQL_database_10.png)
+![06-Create_SQL_database_10](Evidencia/06-Create_SQL_database_10.png)
 
-![06-Create_SQL_database_11](C:\LocalA\Evidencia\06-Create_SQL_database_11.png)
+![06-Create_SQL_database_11](Evidencia/06-Create_SQL_database_11.png)
 
-![06-Create_SQL_database_12](C:\LocalA\Evidencia\06-Create_SQL_database_12.png)
+![06-Create_SQL_database_12](Evidencia/06-Create_SQL_database_12.png)
 
-![06-Create_SQL_database_13](C:\LocalA\Evidencia\06-Create_SQL_database_13.png)
+![06-Create_SQL_database_13](Evidencia/06-Create_SQL_database_13.png)
 
 Resource group removing
 
-![06-Create_SQL_database_14](C:\LocalA\Evidencia\06-Create_SQL_database_14.png)
+![06-Create_SQL_database_14](Evidencia/06-Create_SQL_database_14.png)
 
-![06-Create_SQL_database_15](C:\LocalA\Evidencia\06-Create_SQL_database_15.png)
+![06-Create_SQL_database_15](Evidencia/06-Create_SQL_database_15.png)

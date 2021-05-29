@@ -220,3 +220,34 @@ Resource group removing
 
 ![07-Implement_Azure_IoT_Hub_16](Evidencia/07-Implement_Azure_IoT_Hub_16.png)
 
+# 08 – Implement Azure Functions
+Create a Function App
+
+![08-Create_Function_App_01](Evidencia/08-Create_Function_App_01.png)
+
+![08-Create_Function_App_02](Evidencia/08-Create_Function_App_02.png)
+
+![08-Create_Function_App_03](Evidencia/08-Create_Function_App_03.png)
+
+![08-Create_Function_App_04](Evidencia/08-Create_Function_App_04.png)
+
+![08-Create_Function_App_05](Evidencia/08-Create_Function_App_05.png)
+
+![08-Create_Function_App_06](Evidencia/08-Create_Function_App_06.png)
+
+![08-Create_Function_App_07](Evidencia/08-Create_Function_App_07.png)
+
+![08-Create_Function_App_08](Evidencia/08-Create_Function_App_08.png)
+
+![08-Create_Function_App_09](Evidencia/08-Create_Function_App_09.png)
+
+![08-Create_Function_App_10](Evidencia/08-Create_Function_App_10.png)
+
+![08-Create_Function_App_11](Evidencia/08-Create_Function_App_11.png)
+
+![08-Create_Function_App_12](Evidencia/08-Create_Function_App_12.png)
+
+![08-Create_Function_App_13](Evidencia/08-Create_Function_App_13.png)
+
+![08-Create_Function_App_14](Evidencia/08-Create_Function_App_14.png)
+

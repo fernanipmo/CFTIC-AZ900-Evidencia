@@ -288,3 +288,66 @@ Resource group removing
 ![09-Create_VM_with_Template_13](Evidencia/09-Create_VM_with_Template_13.png)
 
 ![09-Create_VM_with_Template_14](Evidencia/09-Create_VM_with_Template_14.png)
+
+# 10 – Create a VM with PowerShell
+Configure the Cloud Shell
+
+![10-Create_VM_with_PowerShell_01](Evidencia/10-Create_VM_with_PowerShell_01.png)
+
+![10-Create_VM_with_PowerShell_02](Evidencia/10-Create_VM_with_PowerShell_02.png)
+
+![10-Create_VM_with_PowerShell_03](Evidencia/10-Create_VM_with_PowerShell_03.png)
+
+![10-Create_VM_with_PowerShell_04](Evidencia/10-Create_VM_with_PowerShell_04.png)
+
+![10-Create_VM_with_PowerShell_05](Evidencia/10-Create_VM_with_PowerShell_05.png)
+
+![10-Create_VM_with_PowerShell_06](Evidencia/10-Create_VM_with_PowerShell_06.png)
+
+![10-Create_VM_with_PowerShell_07](Evidencia/10-Create_VM_with_PowerShell_07.png)
+
+![10-Create_VM_with_PowerShell_08](Evidencia/10-Create_VM_with_PowerShell_08.png)
+
+Create a resource group and virtual machine
+
+![10-Create_VM_with_PowerShell_09](Evidencia/10-Create_VM_with_PowerShell_09.png)
+
+Execute commands in the Cloud Shell
+
+![10-Create_VM_with_PowerShell_10](Evidencia/10-Create_VM_with_PowerShell_10.png)
+
+![10-Create_VM_with_PowerShell_11](Evidencia/10-Create_VM_with_PowerShell_11.png)
+
+![10-Create_VM_with_PowerShell_12](Evidencia/10-Create_VM_with_PowerShell_12.png)
+
+![10-Create_VM_with_PowerShell_13](Evidencia/10-Create_VM_with_PowerShell_13.png)
+
+![10-Create_VM_with_PowerShell_14](Evidencia/10-Create_VM_with_PowerShell_14.png)
+
+![10-Create_VM_with_PowerShell_15](Evidencia/10-Create_VM_with_PowerShell_15.png)
+
+![10-Create_VM_with_PowerShell_16](Evidencia/10-Create_VM_with_PowerShell_16.png)
+
+![10-Create_VM_with_PowerShell_17](Evidencia/10-Create_VM_with_PowerShell_17.png)
+
+![10-Create_VM_with_PowerShell_18](Evidencia/10-Create_VM_with_PowerShell_18.png)
+
+![10-Create_VM_with_PowerShell_19](Evidencia/10-Create_VM_with_PowerShell_19.png)
+
+![10-Create_VM_with_PowerShell_20](Evidencia/10-Create_VM_with_PowerShell_20.png)
+
+![10-Create_VM_with_PowerShell_21](Evidencia/10-Create_VM_with_PowerShell_21.png)
+
+Review Azure Advisor Recommendations
+
+![10-Create_VM_with_PowerShell_22](Evidencia/10-Create_VM_with_PowerShell_22.png)
+
+![10-Create_VM_with_PowerShell_23](Evidencia/10-Create_VM_with_PowerShell_23.png)
+
+![10-Create_VM_with_PowerShell_24](Evidencia/10-Create_VM_with_PowerShell_24.png)
+
+Resource group removing
+
+![10-Create_VM_with_PowerShell_25](Evidencia/10-Create_VM_with_PowerShell_25.png)
+
+![10-Create_VM_with_PowerShell_26](Evidencia/10-Create_VM_with_PowerShell_26.png)

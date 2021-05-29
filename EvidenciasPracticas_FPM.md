@@ -47,7 +47,7 @@ Resource group removing
 
 ![02-Create_Web_App_07](Evidencia/02-Create_Web_App_07.png)
 
-![02-Create_Web_App_08](C:\LocalA\Evidencia\02-Create_Web_App_08.png)
+![02-Create_Web_App_08](Evidencia/02-Create_Web_App_08.png)
 
 
 # 03 - Deploy Azure Container Instances
@@ -175,3 +175,43 @@ Resource group removing
 ![06-Create_SQL_database_14](Evidencia/06-Create_SQL_database_14.png)
 
 ![06-Create_SQL_database_15](Evidencia/06-Create_SQL_database_15.png)
+
+# 07 – Implement an Azure IoT Hub
+
+![07-Implement_Azure_IoT_Hub_01](Evidencia/07-Implement_Azure_IoT_Hub_01.png)
+
+Add and IoT device
+
+
+
+Test the device using the Raspberry Pi Simulator
+
+![07-Implement_Azure_IoT_Hub_02](Evidencia/07-Implement_Azure_IoT_Hub_02.png)
+
+![07-Implement_Azure_IoT_Hub_03](Evidencia/07-Implement_Azure_IoT_Hub_03.png)
+
+![07-Implement_Azure_IoT_Hub_04](Evidencia/07-Implement_Azure_IoT_Hub_04.png)
+
+![07-Implement_Azure_IoT_Hub_05](Evidencia/07-Implement_Azure_IoT_Hub_05.png)
+
+![07-Implement_Azure_IoT_Hub_06](Evidencia/07-Implement_Azure_IoT_Hub_06.png)
+
+![07-Implement_Azure_IoT_Hub_07](Evidencia/07-Implement_Azure_IoT_Hub_07.png)
+
+![07-Implement_Azure_IoT_Hub_08](Evidencia/07-Implement_Azure_IoT_Hub_08.png)
+
+![07-Implement_Azure_IoT_Hub_09](Evidencia/07-Implement_Azure_IoT_Hub_09.png)
+
+![07-Implement_Azure_IoT_Hub_10](Evidencia/07-Implement_Azure_IoT_Hub_10.png)
+
+![07-Implement_Azure_IoT_Hub_11](Evidencia/07-Implement_Azure_IoT_Hub_11.png)
+
+![07-Implement_Azure_IoT_Hub_12](Evidencia/07-Implement_Azure_IoT_Hub_12.png)
+
+![07-Implement_Azure_IoT_Hub_13](Evidencia/07-Implement_Azure_IoT_Hub_13.png)
+
+Resource group removing
+
+![07-Implement_Azure_IoT_Hub_15](Evidencia/07-Implement_Azure_IoT_Hub_15.png)
+
+![07-Implement_Azure_IoT_Hub_16](Evidencia/07-Implement_Azure_IoT_Hub_16.png)

@@ -247,7 +247,36 @@ Create a Function App
 
 ![08-Create_Function_App_12](Evidencia/08-Create_Function_App_12.png)
 
+Resource group removing
+
 ![08-Create_Function_App_13](Evidencia/08-Create_Function_App_13.png)
 
 ![08-Create_Function_App_14](Evidencia/08-Create_Function_App_14.png)
 
+
+# 09 – Create a VM with a Template
+Explore the gallery and locate a template
+
+![09-Create_VM_with_Template_01](Evidencia/09-Create_VM_with_Template_01.png)
+
+![09-Create_VM_with_Template_02](Evidencia/09-Create_VM_with_Template_02.png)
+
+![09-Create_VM_with_Template_03](Evidencia/09-Create_VM_with_Template_03.png)
+
+![09-Create_VM_with_Template_04](Evidencia/09-Create_VM_with_Template_04.png)
+
+![09-Create_VM_with_Template_05](Evidencia/09-Create_VM_with_Template_05.png)
+
+![09-Create_VM_with_Template_06](Evidencia/09-Create_VM_with_Template_06.png)
+
+![09-Create_VM_with_Template_07](Evidencia/09-Create_VM_with_Template_07.png)
+
+Verify and monitor your virtual machine deployment
+
+![09-Create_VM_with_Template_08](Evidencia/09-Create_VM_with_Template_08.png)
+
+Resource group removing
+
+![09-Create_VM_with_Template_13](Evidencia/09-Create_VM_with_Template_13.png)
+
+![09-Create_VM_with_Template_14](Evidencia/09-Create_VM_with_Template_14.png)

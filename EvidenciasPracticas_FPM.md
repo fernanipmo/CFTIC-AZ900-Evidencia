@@ -397,7 +397,7 @@ Resource group removing
 
 ![11-Create_VM_with_the_CLI_15](Evidencia/11-Create_VM_with_the_CLI_15.png)
 
-#12 - Implement Azure Key Vault
+# 12 - Implement Azure Key Vault
 
 Create an Azure Key Vault
 

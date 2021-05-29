@@ -396,3 +396,42 @@ Resource group removing
 ![11-Create_VM_with_the_CLI_14](Evidencia/11-Create_VM_with_the_CLI_14.png)
 
 ![11-Create_VM_with_the_CLI_15](Evidencia/11-Create_VM_with_the_CLI_15.png)
+
+#12 - Implement Azure Key Vault
+
+Create an Azure Key Vault
+
+![12-Create_Azure_Key_VaultI_01](Evidencia/12-Create_Azure_Key_VaultI_01.png)
+
+![12-Create_Azure_Key_VaultI_02](Evidencia/12-Create_Azure_Key_VaultI_02.png)
+
+![12-Create_Azure_Key_VaultI_03](Evidencia/12-Create_Azure_Key_VaultI_03.png)
+
+![12-Create_Azure_Key_VaultI_04](Evidencia/12-Create_Azure_Key_VaultI_04.png)
+
+![12-Create_Azure_Key_VaultI_05](Evidencia/12-Create_Azure_Key_VaultI_05.png)
+
+![12-Create_Azure_Key_VaultI_06](Evidencia/12-Create_Azure_Key_VaultI_06.png)
+
+![12-Create_Azure_Key_VaultI_07](Evidencia/12-Create_Azure_Key_VaultI_07.png)
+
+![12-Create_Azure_Key_VaultI_08](Evidencia/12-Create_Azure_Key_VaultI_08.png)
+
+Add a secret to the Key Vault
+
+![12-Create_Azure_Key_VaultI_09](Evidencia/12-Create_Azure_Key_VaultI_09.png)
+
+![12-Create_Azure_Key_VaultI_10](Evidencia/12-Create_Azure_Key_VaultI_10.png)
+
+![12-Create_Azure_Key_VaultI_11](Evidencia/12-Create_Azure_Key_VaultI_11.png)
+
+![12-Create_Azure_Key_VaultI_12](Evidencia/12-Create_Azure_Key_VaultI_12.png)
+
+![12-Create_Azure_Key_VaultI_13](Evidencia/12-Create_Azure_Key_VaultI_13.png)
+
+Resource group removing
+
+![12-Create_Azure_Key_VaultI_14](Evidencia/12-Create_Azure_Key_VaultI_14.png)
+
+![12-Create_Azure_Key_VaultI_15](Evidencia/12-Create_Azure_Key_VaultI_15.png)
+

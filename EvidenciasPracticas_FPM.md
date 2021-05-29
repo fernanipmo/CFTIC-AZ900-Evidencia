@@ -182,10 +182,6 @@ Resource group removing
 
 Add and IoT device
 
-
-
-Test the device using the Raspberry Pi Simulator
-
 ![07-Implement_Azure_IoT_Hub_02](Evidencia/07-Implement_Azure_IoT_Hub_02.png)
 
 ![07-Implement_Azure_IoT_Hub_03](Evidencia/07-Implement_Azure_IoT_Hub_03.png)
@@ -193,6 +189,8 @@ Test the device using the Raspberry Pi Simulator
 ![07-Implement_Azure_IoT_Hub_04](Evidencia/07-Implement_Azure_IoT_Hub_04.png)
 
 ![07-Implement_Azure_IoT_Hub_05](Evidencia/07-Implement_Azure_IoT_Hub_05.png)
+
+Test the device using the Raspberry Pi Simulator
 
 ![07-Implement_Azure_IoT_Hub_06](Evidencia/07-Implement_Azure_IoT_Hub_06.png)
 
@@ -210,8 +208,11 @@ Test the device using the Raspberry Pi Simulator
 
 ![07-Implement_Azure_IoT_Hub_13](Evidencia/07-Implement_Azure_IoT_Hub_13.png)
 
+![07-Implement_Azure_IoT_Hub_14](C:\LocalA\Evidencia\07-Implement_Azure_IoT_Hub_14.png)
+
 Resource group removing
 
 ![07-Implement_Azure_IoT_Hub_15](Evidencia/07-Implement_Azure_IoT_Hub_15.png)
 
 ![07-Implement_Azure_IoT_Hub_16](Evidencia/07-Implement_Azure_IoT_Hub_16.png)
+

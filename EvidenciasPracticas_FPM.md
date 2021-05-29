@@ -354,3 +354,45 @@ Resource group removing
 ![10-Create_VM_with_PowerShell_25](Evidencia/10-Create_VM_with_PowerShell_25.png)
 
 ![10-Create_VM_with_PowerShell_26](Evidencia/10-Create_VM_with_PowerShell_26.png)
+
+# 11 - Create a VM with the CLI
+
+Configure the Cloud Shell
+
+![11-Create_VM_with_the_CLI_01](Evidencia/11-Create_VM_with_the_CLI_01.png)
+
+![11-Create_VM_with_the_CLI_02](Evidencia/11-Create_VM_with_the_CLI_02.png)
+
+![11-Create_VM_with_the_CLI_03](Evidencia/11-Create_VM_with_the_CLI_03.png)
+
+Create a resource group and a virtual machine
+
+![11-Create_VM_with_the_CLI_04](Evidencia/11-Create_VM_with_the_CLI_04.png)
+
+![11-Create_VM_with_the_CLI_05](Evidencia/11-Create_VM_with_the_CLI_05.png)
+
+![11-Create_VM_with_the_CLI_06](Evidencia/11-Create_VM_with_the_CLI_06.png)
+
+![11-Create_VM_with_the_CLI_07](Evidencia/11-Create_VM_with_the_CLI_07.png)
+
+Execute commands in the Cloud Shell
+
+![11-Create_VM_with_the_CLI_08](Evidencia/11-Create_VM_with_the_CLI_08.png)
+
+![11-Create_VM_with_the_CLI_09](Evidencia/11-Create_VM_with_the_CLI_09.png)
+
+![11-Create_VM_with_the_CLI_10](Evidencia/11-Create_VM_with_the_CLI_10.png)
+
+Review Azure Advisor Recommendations
+
+![11-Create_VM_with_the_CLI_11](Evidencia/11-Create_VM_with_the_CLI_11.png)
+
+![11-Create_VM_with_the_CLI_12](Evidencia/11-Create_VM_with_the_CLI_12.png)
+
+![11-Create_VM_with_the_CLI_13](Evidencia/11-Create_VM_with_the_CLI_13.png)
+
+Resource group removing
+
+![11-Create_VM_with_the_CLI_14](Evidencia/11-Create_VM_with_the_CLI_14.png)
+
+![11-Create_VM_with_the_CLI_15](Evidencia/11-Create_VM_with_the_CLI_15.png)

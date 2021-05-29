@@ -1,0 +1,7 @@
+az vm create ^
+--name myVMCLI ^
+--resource-group myRGCLI ^
+--image UbuntuLTS ^
+--location EastUS ^
+--admin-username azureuser ^
+--admin-password Pa$$w0rd1234

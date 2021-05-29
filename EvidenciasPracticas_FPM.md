@@ -298,6 +298,8 @@ Configure the Cloud Shell
 
 ![10-Create_VM_with_PowerShell_03](Evidencia/10-Create_VM_with_PowerShell_03.png)
 
+Create an Storage account
+
 ![10-Create_VM_with_PowerShell_04](Evidencia/10-Create_VM_with_PowerShell_04.png)
 
 ![10-Create_VM_with_PowerShell_05](Evidencia/10-Create_VM_with_PowerShell_05.png)
@@ -308,11 +310,10 @@ Configure the Cloud Shell
 
 ![10-Create_VM_with_PowerShell_08](Evidencia/10-Create_VM_with_PowerShell_08.png)
 
-Create a resource group and virtual machine
 
 ![10-Create_VM_with_PowerShell_09](Evidencia/10-Create_VM_with_PowerShell_09.png)
 
-Execute commands in the Cloud Shell
+Create a resource group and virtual machine
 
 ![10-Create_VM_with_PowerShell_10](Evidencia/10-Create_VM_with_PowerShell_10.png)
 
@@ -329,6 +330,8 @@ Execute commands in the Cloud Shell
 ![10-Create_VM_with_PowerShell_16](Evidencia/10-Create_VM_with_PowerShell_16.png)
 
 ![10-Create_VM_with_PowerShell_17](Evidencia/10-Create_VM_with_PowerShell_17.png)
+
+Execute commands in the Cloud Shell
 
 ![10-Create_VM_with_PowerShell_18](Evidencia/10-Create_VM_with_PowerShell_18.png)
 

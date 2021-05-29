@@ -11,6 +11,8 @@
 
 ![01-Create_Virtual_Machine_05](Evidencia/01-Create_Virtual_Machine_05.png)
 
+![01-Create_Virtual_Machine_06](Evidencia/01-Create_Virtual_Machine_06.png)
+
 ![01-Create_Virtual_Machine_06](Evidencia/01-Create_Virtual_Machine_07.png)
 
 ![01-Create_Virtual_Machine_08](Evidencia/01-Create_Virtual_Machine_08.png)
@@ -134,13 +136,15 @@ Task 3: Monitor the storage account
 Resource group removing
 ![05-Create_Blob_Storage_09](Evidencia/05-Create_Blob_Storage_09.png)
 
+![05-Create_Blob_Storage_10](Evidencia/05-Create_Blob_Storage_10.png)
+
+
+
 ![05-Create_Blob_Storage_10](Evidencia/05-Create_Blob_Storage_11.png)
 
 
 
 # 06 - Create a SQL database
-
-
 
 ![06-Create_SQL_database_01](Evidencia/06-Create_SQL_database_01.png)
 
@@ -208,7 +212,7 @@ Test the device using the Raspberry Pi Simulator
 
 ![07-Implement_Azure_IoT_Hub_13](Evidencia/07-Implement_Azure_IoT_Hub_13.png)
 
-![07-Implement_Azure_IoT_Hub_14](C:\LocalA\Evidencia\07-Implement_Azure_IoT_Hub_14.png)
+![07-Implement_Azure_IoT_Hub_14](Evidencia/07-Implement_Azure_IoT_Hub_14.png)
 
 Resource group removing
 

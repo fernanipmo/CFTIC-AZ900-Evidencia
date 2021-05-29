@@ -275,6 +275,14 @@ Verify and monitor your virtual machine deployment
 
 ![09-Create_VM_with_Template_08](Evidencia/09-Create_VM_with_Template_08.png)
 
+![09-Create_VM_with_Template_10](Evidencia/09-Create_VM_with_Template_10.png)
+
+![09-Create_VM_with_Template_11](Evidencia/09-Create_VM_with_Template_11.png)
+
+![09-Create_VM_with_Template_12](Evidencia/09-Create_VM_with_Template_12.png)
+
+![09-Create_VM_with_Template_09](Evidencia/09-Create_VM_with_Template_09.png)
+
 Resource group removing
 
 ![09-Create_VM_with_Template_13](Evidencia/09-Create_VM_with_Template_13.png)

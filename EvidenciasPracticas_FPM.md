@@ -715,7 +715,7 @@ Review the results and save a copy
 # 21 – Calculate composite SLAs
 Determine the SLA uptime percentage values for our application
 
-![21-Calculate Composite SLAs_01](Evidencia/21-Calculate Composite SLAs_01.png)
+![21-Calculate Composite SLAs_01](Evidencia/21-Calculate Composite_SLAs_01.png)
 
 ![21–Calculate_Composite_SLAs_02](Evidencia/21–Calculate_Composite_SLAs_02.png)
 

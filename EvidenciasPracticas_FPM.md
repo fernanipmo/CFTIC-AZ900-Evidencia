@@ -498,3 +498,27 @@ Resource group removing
 
 ![13-Secure_network_traffic_26](Evidencia/13-Secure_network_traffic_26.png)
 
+#  14 – Manage Access with RBAC
+
+View and assign roles
+
+![14-Manage_access_with_RBAC_01](Evidencia/14-Manage_access_with_RBAC_01.png)
+
+![14-Manage_access_with_RBAC_02](Evidencia/14-Manage_access_with_RBAC_02.png)
+
+![14-Manage_access_with_RBAC_03](Evidencia/14-Manage_access_with_RBAC_03.png)
+
+Monitor role assignments and remove a role
+
+![14-Manage_access_with_RBAC_04](Evidencia/14-Manage_access_with_RBAC_04.png)
+
+![14-Manage_access_with_RBAC_05](Evidencia/14-Manage_access_with_RBAC_05.png)
+
+![14-Manage_access_with_RBAC_06](Evidencia/14-Manage_access_with_RBAC_06.png)
+
+
+Resource group removing
+
+![14-Manage_access_with_RBAC_07](Evidencia/14-Manage_access_with_RBAC_07.png)
+
+![14-Manage_access_with_RBAC_08](Evidencia/14-Manage_access_with_RBAC_08.png)

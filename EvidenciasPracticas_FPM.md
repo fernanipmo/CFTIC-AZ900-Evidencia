@@ -551,3 +551,47 @@ Remove the resource lock
 ![15-Manage_resource_Locks_09](Evidencia/15-Manage_resource_Locks_09.png)
 
 ![15-Manage_resource_Locks_10](Evidencia/15-Manage_resource_Locks_10.png)
+
+# 16 - Implement resource tagging
+
+Create a Policy assignment
+
+![16-Implement_Resource_Tagging_001](Evidencia/16-Implement_Resource_Tagging_001.png)
+
+![16-Implement_Resource_Tagging_002](Evidencia/16-Implement_Resource_Tagging_002.png)
+
+Create a storage account to test the required tagging
+
+![16-Implement_Resource_Tagging_003](Evidencia/16-Implement_Resource_Tagging_003.png)
+
+![16-Implement_Resource_Tagging_004](Evidencia/16-Implement_Resource_Tagging_004.png)
+
+![16-Implement_Resource_Tagging_005](Evidencia/16-Implement_Resource_Tagging_005.png)
+
+![16-Implement_Resource_Tagging_006](Evidencia/16-Implement_Resource_Tagging_006.png)
+
+![16-Implement_Resource_Tagging_007](Evidencia/16-Implement_Resource_Tagging_007.png)
+
+View all resources with a specific tag
+
+![16-Implement_Resource_Tagging_008](Evidencia/16-Implement_Resource_Tagging_008.png)
+
+![16-Implement_Resource_Tagging_009](Evidencia/16-Implement_Resource_Tagging_009.png)
+
+![16-Implement_Resource_Tagging_010](Evidencia/16-Implement_Resource_Tagging_010.png)
+
+Delete the policy assignment
+
+![16-Implement_Resource_Tagging_011](Evidencia/16-Implement_Resource_Tagging_011.png)
+
+![16-Implement_Resource_Tagging_012](Evidencia/16-Implement_Resource_Tagging_012.png)
+
+![16-Implement_Resource_Tagging_013](Evidencia/16-Implement_Resource_Tagging_013.png)
+
+![16-Implement_Resource_Tagging_014](Evidencia/16-Implement_Resource_Tagging_014.png)
+
+Resource group removing
+
+![16-Implement_Resource_Tagging_015](Evidencia/16-Implement_Resource_Tagging_015.png)
+
+![16-Implement_Resource_Tagging_016](Evidencia/16-Implement_Resource_Tagging_016.png)

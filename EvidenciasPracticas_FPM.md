@@ -681,3 +681,32 @@ Review the pricing estimate
 ![19-Use_the_Pricing_Calculator_11](Evidencia/19-Use_the_Pricing_Calculator_11.png)
 
 ![19-Use_the_Pricing_Calculator_12](Evidencia/19-Use_the_Pricing_Calculator_12.png)
+
+# 20 - Use the Azure TCO Calculator
+Configure the TCO calculator
+![20-Use_the_Azure_TCO_Calculator_01](Evidencia/20-Use_the_Azure_TCO_Calculator_01.png)
+
+![20-Use_the_Azure_TCO_Calculator_02](Evidencia/20-Use_the_Azure_TCO_Calculator_02.png)
+
+![20-Use_the_Azure_TCO_Calculator_03](Evidencia/20-Use_the_Azure_TCO_Calculator_03.png)
+
+![20-Use_the_Azure_TCO_Calculator_04](Evidencia/20-Use_the_Azure_TCO_Calculator_04.png)
+
+![20-Use_the_Azure_TCO_Calculator_05](Evidencia/20-Use_the_Azure_TCO_Calculator_05.png)
+
+![20-Use_the_Azure_TCO_Calculator_06](Evidencia/20-Use_the_Azure_TCO_Calculator_06.png)
+
+
+Review the results and save a copy
+
+![20-Use_the_Azure_TCO_Calculator_07](Evidencia/20-Use_the_Azure_TCO_Calculator_07.png)
+
+![20-Use_the_Azure_TCO_Calculator_08](Evidencia/20-Use_the_Azure_TCO_Calculator_08.png)
+
+![20-Use_the_Azure_TCO_Calculator_09](Evidencia/20-Use_the_Azure_TCO_Calculator_09.png)
+
+![20-Use_the_Azure_TCO_Calculator_10](Evidencia/20-Use_the_Azure_TCO_Calculator_10.png)
+
+![20-Use_the_Azure_TCO_Calculator_11](Evidencia/20-Use_the_Azure_TCO_Calculator_11.png)
+
+![20-Use_the_Azure_TCO_Calculator_12](Evidencia/20-Use_the_Azure_TCO_Calculator_12.png)

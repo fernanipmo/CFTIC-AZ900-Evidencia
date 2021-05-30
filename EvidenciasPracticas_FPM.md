@@ -631,3 +631,24 @@ Delete the policy assignment
 
 Access the Trust Center
 
+![18-Explore_the_Trust_Center_01](Evidencia/18-Explore_the_Trust_Center_01.png)
+
+![18-Explore_the_Trust_Center_02](Evidencia/18-Explore_the_Trust_Center_02.png)
+
+Access the Service Trust Portal
+
+![18-Explore_the_Trust_Center_03](Evidencia/18-Explore_the_Trust_Center_03.png)
+
+![18-Explore_the_Trust_Center_04](Evidencia/18-Explore_the_Trust_Center_04.png)
+
+![18-Explore_the_Trust_Center_05](Evidencia/18-Explore_the_Trust_Center_05.png)
+
+![18-Explore_the_Trust_Center_06](Evidencia/18-Explore_the_Trust_Center_06.png)
+
+![18-Explore_the_Trust_Center_07](Evidencia/18-Explore_the_Trust_Center_07.png)
+
+![18-Explore_the_Trust_Center_08](Evidencia/18-Explore_the_Trust_Center_08.png)
+
+Access the Compliance Manager
+
+![18-Explore_the_Trust_Center_09](Evidencia/18-Explore_the_Trust_Center_09.png)

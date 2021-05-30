@@ -629,3 +629,5 @@ Delete the policy assignment
 
 # 18 - Explore the Trust Center
 
+Access the Trust Center
+

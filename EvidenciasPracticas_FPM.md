@@ -712,8 +712,48 @@ Review the results and save a copy
 
 ![20-Use_the_Azure_TCO_Calculator_12](Evidencia/20-Use_the_Azure_TCO_Calculator_12.png)
 
-# 20 – Calculate composite SLAs
+# 21 – Calculate composite SLAs
 Determine the SLA uptime percentage values for our application
 
+![21-Calculate Composite SLAs_01](Evidencia/21-Calculate Composite SLAs_01.png)
 
+![21–Calculate Composite SLAs_02](Evidencia/21–Calculate Composite SLAs_02.png)
 
+![21–Calculate Composite SLAs_03](Evidencia/21–Calculate Composite SLAs_03.png)
+
+![21–Calculate Composite SLAs_04](Evidencia/21–Calculate Composite SLAs_04.png)
+
+![21–Calculate Composite SLAs_05](Evidencia/21–Calculate Composite SLAs_05.png)
+
+![21–Calculate Composite SLAs_06](Evidencia/21–Calculate Composite SLAs_06.png)
+
+![21–Calculate Composite SLAs_07](Evidencia/21–Calculate Composite SLAs_07.png)
+
+![21–Calculate Composite SLAs_08](Evidencia/21–Calculate Composite SLAs_08.png)
+
+![21–Calculate Composite SLAs_09](Evidencia/21–Calculate Composite SLAs_09.png)
+
+Calculate the Application Composite SLA percentage uptime
+
+![21–Calculate Composite SLAs_10](Evidencia/21–Calculate Composite SLAs_10.png)
+
+# 22 - Open a Support Request
+View available support plan options and a technical support request 
+
+![22-Open_a_Support_Request_01](Evidencia/22-Open_a_Support_Request_01.png)
+
+![22-Open_a_Support_Request_02](Evidencia/22-Open_a_Support_Request_02.png)
+
+![22-Open_a_Support_Request_03](Evidencia/22-Open_a_Support_Request_03.png)
+
+Create a billing support request
+
+![22-Open_a_Support_Request_04](Evidencia/22-Open_a_Support_Request_04.png)
+
+![22-Open_a_Support_Request_05](Evidencia/22-Open_a_Support_Request_05.png)
+
+![22-Open_a_Support_Request_06](Evidencia/22-Open_a_Support_Request_06.png)
+
+![22-Open_a_Support_Request_07](Evidencia/22-Open_a_Support_Request_07.png)
+
+![22-Open_a_Support_Request_08](Evidencia/22-Open_a_Support_Request_08.png)

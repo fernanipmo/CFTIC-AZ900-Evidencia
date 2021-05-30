@@ -626,3 +626,6 @@ Delete the policy assignment
 ![17- Create_ Policy_assignment_11](Evidencia/17- Create_ Policy_assignment_11.png)
 
 ![17- Create_ Policy_assignment_12](Evidencia/17- Create_ Policy_assignment_12.png)
+
+# 18 - Explore the Trust Center
+

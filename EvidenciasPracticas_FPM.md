@@ -463,8 +463,7 @@ Create a network security group
 Configure an inbound security port rule to allow RDP
 
 
-
-Confi![13-Secure_network_traffic_11](Evidencia/13-Secure_network_traffic_11.png)
+![13-Secure_network_traffic_11](Evidencia/13-Secure_network_traffic_11.png)
 
 ![13-Secure_network_traffic_12](Evidencia/13-Secure_network_traffic_12.png)
 

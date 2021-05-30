@@ -522,3 +522,32 @@ Resource group removing
 ![14-Manage_access_with_RBAC_07](Evidencia/14-Manage_access_with_RBAC_07.png)
 
 ![14-Manage_access_with_RBAC_08](Evidencia/14-Manage_access_with_RBAC_08.png)
+
+# 15 – Manage resource locks
+
+Create a resource group
+
+![15-Manage_resource_Locks_01](Evidencia/15-Manage_resource_Locks_01.png)
+
+Add a Lock to the resource group and test deletion
+
+![15-Manage_resource_Locks_02](Evidencia/15-Manage_resource_Locks_02.png)
+
+![15-Manage_resource_Locks_03](Evidencia/15-Manage_resource_Locks_03.png)
+
+![15-Manage_resource_Locks_04](Evidencia/15-Manage_resource_Locks_04.png)
+
+Test deleting a  member of the resource group
+
+![15-Manage_resource_Locks_05](Evidencia/15-Manage_resource_Locks_05.png) 
+
+![15-Manage_resource_Locks_04](Evidencia/15-Manage_resource_Locks_04.png)
+
+Remove the resource lock
+![15-Manage_resource_Locks_07](Evidencia/15-Manage_resource_Locks_07.png)
+
+![15-Manage_resource_Locks_08](Evidencia/15-Manage_resource_Locks_08.png)
+
+![15-Manage_resource_Locks_09](Evidencia/15-Manage_resource_Locks_09.png)
+
+![15-Manage_resource_Locks_10](Evidencia/15-Manage_resource_Locks_10.png)

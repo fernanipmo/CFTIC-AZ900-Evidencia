@@ -435,7 +435,7 @@ Resource group removing
 
 ![12-Create_Azure_Key_VaultI_15](Evidencia/12-Create_Azure_Key_VaultI_15.png)
 
-# 13 Secure network traffic
+# 13 - Secure network traffic
 Create a virtual machine
 ![13-Secure_network_traffic_01](Evidencia/13-Secure_network_traffic_01.png)
 

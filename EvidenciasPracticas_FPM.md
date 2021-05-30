@@ -652,3 +652,32 @@ Access the Service Trust Portal
 Access the Compliance Manager
 
 ![18-Explore_the_Trust_Center_09](Evidencia/18-Explore_the_Trust_Center_09.png)
+# 19 – Use the Pricing Calculator
+Configure the pricing calculator
+
+![19-Use_the_Pricing_Calculator_01](Evidencia/19-Use_the_Pricing_Calculator_01.png)
+
+![19-Use_the_Pricing_Calculator_02](Evidencia/19-Use_the_Pricing_Calculator_02.png)
+
+![19-Use_the_Pricing_Calculator_03](Evidencia/19-Use_the_Pricing_Calculator_03.png)
+
+![19-Use_the_Pricing_Calculator_04](Evidencia/19-Use_the_Pricing_Calculator_04.png)
+
+![19-Use_the_Pricing_Calculator_05](Evidencia/19-Use_the_Pricing_Calculator_05.png)
+
+![19-Use_the_Pricing_Calculator_06](Evidencia/19-Use_the_Pricing_Calculator_06.png)
+
+![19-Use_the_Pricing_Calculator_07](Evidencia/19-Use_the_Pricing_Calculator_07.png)
+
+![19-Use_the_Pricing_Calculator_08](Evidencia/19-Use_the_Pricing_Calculator_08.png)
+
+![19-Use_the_Pricing_Calculator_09](Evidencia/19-Use_the_Pricing_Calculator_09.png)
+
+![19-Use_the_Pricing_Calculator_10](Evidencia/19-Use_the_Pricing_Calculator_10.png)
+
+
+Review the pricing estimate
+
+![19-Use_the_Pricing_Calculator_11](Evidencia/19-Use_the_Pricing_Calculator_11.png)
+
+![19-Use_the_Pricing_Calculator_12](Evidencia/19-Use_the_Pricing_Calculator_12.png)

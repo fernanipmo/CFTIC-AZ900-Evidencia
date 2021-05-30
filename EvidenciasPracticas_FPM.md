@@ -684,6 +684,7 @@ Review the pricing estimate
 
 # 20 - Use the Azure TCO Calculator
 Configure the TCO calculator
+
 ![20-Use_the_Azure_TCO_Calculator_01](Evidencia/20-Use_the_Azure_TCO_Calculator_01.png)
 
 ![20-Use_the_Azure_TCO_Calculator_02](Evidencia/20-Use_the_Azure_TCO_Calculator_02.png)

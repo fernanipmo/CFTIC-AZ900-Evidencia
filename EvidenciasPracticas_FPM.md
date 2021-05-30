@@ -435,3 +435,70 @@ Resource group removing
 
 ![12-Create_Azure_Key_VaultI_15](Evidencia/12-Create_Azure_Key_VaultI_15.png)
 
+# 13 Secure network traffic
+Create a virtual machine
+
+![13-Secure network traffic_01](Evidencia/13-Secure network traffic_01.png)
+
+![13-Secure_network_traffic_01](Evidencia/13-Secure_network_traffic_01.png)
+
+![13-Secure_network_traffic_02](Evidencia/13-Secure_network_traffic_02.png)
+
+![13-Secure_network_traffic_03](Evidencia/13-Secure_network_traffic_03.png)
+
+![13-Secure_network_traffic_04](Evidencia/13-Secure_network_traffic_04.png)
+
+![13-Secure_network_traffic_05](Evidencia/13-Secure_network_traffic_05.png)
+
+Create a network security group
+
+![13-Secure_network_traffic_06](Evidencia/13-Secure_network_traffic_06.png)
+
+![13-Secure_network_traffic_07](Evidencia/13-Secure_network_traffic_07.png)
+
+![13-Secure_network_traffic_08](Evidencia/13-Secure_network_traffic_08.png)
+
+![13-Secure_network_traffic_09](Evidencia/13-Secure_network_traffic_09.png)
+
+![13-Secure_network_traffic_10](Evidencia/13-Secure_network_traffic_10.png)
+
+Configure an inbound security port rule to allow RDP
+
+
+
+Confi![13-Secure_network_traffic_11](Evidencia/13-Secure_network_traffic_11.png)
+
+![13-Secure_network_traffic_12](Evidencia/13-Secure_network_traffic_12.png)
+
+![13-Secure_network_traffic_13](Evidencia/13-Secure_network_traffic_13.png)
+
+![13-Secure_network_traffic_14](Evidencia/13-Secure_network_traffic_14.png)
+
+![13-Secure_network_traffic_15](Evidencia/13-Secure_network_traffic_15.png)
+
+![13-Secure_network_traffic_16](Evidencia/13-Secure_network_traffic_16.png)
+
+![13-Secure_network_traffic_17](Evidencia/13-Secure_network_traffic_17.png)
+
+![13-Secure_network_traffic_18](Evidencia/13-Secure_network_traffic_18.png)
+
+![13-Secure_network_traffic_19](Evidencia/13-Secure_network_traffic_19.png)
+
+Configure an outbound security port rule deny Internet access
+
+![13-Secure_network_traffic_20](Evidencia/13-Secure_network_traffic_20.png)
+
+![13-Secure_network_traffic_21](Evidencia/13-Secure_network_traffic_21.png)
+
+![13-Secure_network_traffic_22](Evidencia/13-Secure_network_traffic_22.png)
+
+![13-Secure_network_traffic_23](Evidencia/13-Secure_network_traffic_23.png)
+
+![13-Secure_network_traffic_24](Evidencia/13-Secure_network_traffic_24.png)
+
+
+Resource group removing
+
+![13-Secure_network_traffic_25](Evidencia/13-Secure_network_traffic_25.png)
+
+![13-Secure_network_traffic_26](Evidencia/13-Secure_network_traffic_26.png)

@@ -595,3 +595,34 @@ Resource group removing
 ![16-Implement_Resource_Tagging_015](Evidencia/16-Implement_Resource_Tagging_015.png)
 
 ![16-Implement_Resource_Tagging_016](Evidencia/16-Implement_Resource_Tagging_016.png)
+
+# 17 – Create an Azure Policy
+Create a Policy assignment
+
+![17- Create_ Policy_assignment_01](Evidencia/17- Create_ Policy_assignment_01.png)
+
+![17- Create_ Policy_assignment_02](Evidencia/17- Create_ Policy_assignment_02.png)
+
+![17- Create_ Policy_assignment_03](Evidencia/17- Create_ Policy_assignment_03.png)
+
+![17- Create_ Policy_assignment_04](Evidencia/17- Create_ Policy_assignment_04.png)
+
+![17- Create_ Policy_assignment_05](Evidencia/17- Create_ Policy_assignment_05.png)
+
+![17- Create_ Policy_assignment_06](Evidencia/17- Create_ Policy_assignment_06.png)
+
+Test Allowed location policy
+
+![17- Create_ Policy_assignment_07](Evidencia/17- Create_ Policy_assignment_07.png)
+
+![17- Create_ Policy_assignment_08](Evidencia/17- Create_ Policy_assignment_08.png)
+
+![17- Create_ Policy_assignment_09](Evidencia/17- Create_ Policy_assignment_09.png)
+
+Delete the policy assignment
+
+![17- Create_ Policy_assignment_10](Evidencia/17- Create_ Policy_assignment_10.png)
+
+![17- Create_ Policy_assignment_11](Evidencia/17- Create_ Policy_assignment_11.png)
+
+![17- Create_ Policy_assignment_12](Evidencia/17- Create_ Policy_assignment_12.png)

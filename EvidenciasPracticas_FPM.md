@@ -438,8 +438,6 @@ Resource group removing
 # 13 Secure network traffic
 Create a virtual machine
 
-![13-Secure network traffic_01](Evidencia/13-Secure network traffic_01.png)
-
 ![13-Secure_network_traffic_01](Evidencia/13-Secure_network_traffic_01.png)
 
 ![13-Secure_network_traffic_02](Evidencia/13-Secure_network_traffic_02.png)
@@ -502,3 +500,4 @@ Resource group removing
 ![13-Secure_network_traffic_25](Evidencia/13-Secure_network_traffic_25.png)
 
 ![13-Secure_network_traffic_26](Evidencia/13-Secure_network_traffic_26.png)
+

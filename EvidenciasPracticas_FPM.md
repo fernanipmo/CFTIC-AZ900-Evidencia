@@ -711,3 +711,9 @@ Review the results and save a copy
 ![20-Use_the_Azure_TCO_Calculator_11](Evidencia/20-Use_the_Azure_TCO_Calculator_11.png)
 
 ![20-Use_the_Azure_TCO_Calculator_12](Evidencia/20-Use_the_Azure_TCO_Calculator_12.png)
+
+# 20 – Calculate composite SLAs
+Determine the SLA uptime percentage values for our application
+
+
+

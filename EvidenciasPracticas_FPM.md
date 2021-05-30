@@ -717,25 +717,25 @@ Determine the SLA uptime percentage values for our application
 
 ![21-Calculate Composite SLAs_01](Evidencia/21-Calculate Composite SLAs_01.png)
 
-![21–Calculate Composite SLAs_02](Evidencia/21–Calculate Composite SLAs_02.png)
+![21–Calculate_Composite_SLAs_02](Evidencia/21–Calculate_Composite_SLAs_02.png)
 
-![21–Calculate Composite SLAs_03](Evidencia/21–Calculate Composite SLAs_03.png)
+![21–Calculate_Composite_SLAs_03](Evidencia/21–Calculate_Composite_SLAs_03.png)
 
-![21–Calculate Composite SLAs_04](Evidencia/21–Calculate Composite SLAs_04.png)
+![21–Calculate_Composite_SLAs_04](Evidencia/21–Calculate_Composite_SLAs_04.png)
 
-![21–Calculate Composite SLAs_05](Evidencia/21–Calculate Composite SLAs_05.png)
+![21–Calculate_Composite_SLAs_05](Evidencia/21–Calculate_Composite_SLAs_05.png)
 
-![21–Calculate Composite SLAs_06](Evidencia/21–Calculate Composite SLAs_06.png)
+![21–Calculate_Composite_SLAs_06](Evidencia/21–Calculate_Composite_SLAs_06.png)
 
-![21–Calculate Composite SLAs_07](Evidencia/21–Calculate Composite SLAs_07.png)
+![21–Calculate_Composite_SLAs_07](Evidencia/21–Calculate_Composite_SLAs_07.png)
 
-![21–Calculate Composite SLAs_08](Evidencia/21–Calculate Composite SLAs_08.png)
+![21–Calculate_Composite_SLAs_08](Evidencia/21–Calculate_Composite_SLAs_08.png)
 
-![21–Calculate Composite SLAs_09](Evidencia/21–Calculate Composite SLAs_09.png)
+![21–Calculate_Composite_SLAs_09](Evidencia/21–Calculate_Composite_SLAs_09.png)
 
 Calculate the Application Composite SLA percentage uptime
 
-![21–Calculate Composite SLAs_10](Evidencia/21–Calculate Composite SLAs_10.png)
+![21–Calculate_Composite_SLAs_10](Evidencia/21–Calculate_Composite_SLAs_10.png)
 
 # 22 - Open a Support Request
 View available support plan options and a technical support request 

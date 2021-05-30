@@ -437,7 +437,6 @@ Resource group removing
 
 # 13 Secure network traffic
 Create a virtual machine
-
 ![13-Secure_network_traffic_01](Evidencia/13-Secure_network_traffic_01.png)
 
 ![13-Secure_network_traffic_02](Evidencia/13-Secure_network_traffic_02.png)
@@ -461,7 +460,6 @@ Create a network security group
 ![13-Secure_network_traffic_10](Evidencia/13-Secure_network_traffic_10.png)
 
 Configure an inbound security port rule to allow RDP
-
 
 ![13-Secure_network_traffic_11](Evidencia/13-Secure_network_traffic_11.png)
 
